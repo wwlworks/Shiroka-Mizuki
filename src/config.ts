@@ -163,6 +163,12 @@ export const navBarConfig: NavBarConfig = {
 					external: true,
 					icon: "fa6-brands:bilibili",
 				},
+				{
+					name: "查看状态",
+					url: "https://stats.uptimerobot.com/4KJf6mJf4L",
+					external: true,
+					icon: "fa6-brands:cloudflare",
+				},
 			],
 		},
 		{
