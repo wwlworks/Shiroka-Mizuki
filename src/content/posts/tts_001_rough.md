@@ -4,7 +4,7 @@ published: 2025-09-17
 description: 'tts001号拍摄计划——流萤春日手信的概要，此处作归档用，部分细节与实际情况不同'
 image: 'https://img.shiroka.icu/cover%20design.png'
 tags: [projects]
-category: 'TTS_001 Project'
+category: 'TSS_001 Project'
 draft: false 
 lang: 'zh_CN'
 author: misono shiroka
