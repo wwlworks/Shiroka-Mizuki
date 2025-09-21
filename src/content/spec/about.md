@@ -15,11 +15,11 @@ This website is built with the **Astro** framework using the [Mizuki](https://gi
 
 :::
 
-成为ClariS Family的第13年 
-いままでも、これからも 
-理应且一直是mmr
-喜好 ba/hbr/学マス
-更新以TSS的作品为主、加上一些个人的思考与感悟
-同时也会利用TSS推进个人研究生方向的研究
+成为ClariS Family的第13年 <br/>
+いままでも、これからも  <br/>
+理应且一直是mmr <br/>
+喜好 ba/hbr/学マス <br/>
+更新以TSS的作品为主、加上一些个人的思考与感悟 <br/>
+同时也会利用TSS推进个人研究生方向的研究 <br/>
 
 如果有互勉合作，欢迎联系我：wwlworks2017@gmail.com
