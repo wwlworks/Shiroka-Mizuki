@@ -7,7 +7,6 @@ tags: [projects]
 category: 'TSS_001 Project'
 draft: false 
 lang: 'zh_CN'
-pinned: true
 author: misono shiroka
 
 ---
